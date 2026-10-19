@@ -1,0 +1,6 @@
+out/
+photo/
+projects/
+.claude/
+__pycache__/
+*.pyc
